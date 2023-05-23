@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&width=800"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header&width=800"/>
 </p>
 <h1 align="center">Hi 👋, I'm Donia Waleed <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/></h1>
 <h3 align="center">I'm a senior Networks and CyberSecurity student that is passionate about coding.</h3>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Networks and CyberSecurity**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -26,6 +26,7 @@
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Tools:</h3>
 <!-- icons -->
  <!-- Integrated Development Environment -->
 <a href = "https://developer.android.com/studio"><img width="40" height="40" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio"></a>
@@ -41,13 +42,17 @@
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/donia_waleed2211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/donia_waleed2211" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doniawaleed&theme=tokyonight&hide_border=true&show_icons=true&locale=en" alt="doniawaleed" /></p></br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doniawaleed&theme=tokyonight&hide_border=true&show_icons=true&locale=en" alt="doniawaleed" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doniawaleed&theme=tokyonight&hide_border=true" alt="doniawaleed" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doniawaleed&theme=tokyonight&hide_border=true&show_icons=true&locale=en&layout=compact" alt="doniawaleed" />
-</p></br>
+<div align="center">
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doniawaleed&theme=tokyonight&hide_border=true&show_icons=true&locale=en&layout=compact" alt="doniawaleed" />
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=doniawaleed&label=Profile%20views&color=blueviolet&style=flat&icon=0" alt="doniawaleed" /> </p>
+  </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doniawaleed&theme=tokyonight&hide_border=true" alt="doniawaleed" /></p></br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=doniawaleed&label=Profile%20views&color=blueviolet&style=flat&icon=0" alt="doniawaleed" /> </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=800"/>
 </p>
