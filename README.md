@@ -7,7 +7,13 @@
 <div align=center>
         <img src="https://i.imgur.com/fSFGYRc.gif" alt="Shinobu" height="200">
     </div>
-- 🌱 I’m currently learning **Networks and CyberSecurity
+-🌱 I’m currently learning Networks and CyberSecurity
+
+## I’m intrested in 
+  * CTFS
+  * Forensics
+  * Cyber Security 
+  * Front-End Development
 
 ## Languages:
 <p align="left"> 
