@@ -29,10 +29,13 @@
 <h3 align="left">Tools:</h3>
 <!-- icons -->
  <!-- Integrated Development Environment -->
-<a href = "https://developer.android.com/studio"><img width="40" height="40" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio"></a>
- <a href = "https://code.visualstudio.com/"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code"></a>
+ <a href = "https://www.vmware.com/mena/products/workstation-pro/workstation-pro-evaluation.html"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="VM Workstation"></a>
+<a href = "https://learn.microsoft.com/en-us/visualstudio/get-started/visual-studio-ide?view=vs-2022"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/640px-Visual_Studio_Icon_2022.svg.png"></a>
+<a href = "https://code.visualstudio.com/"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code"></a>
 <a href = "https://www.jetbrains.com/idea/"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA"></a>
 <a href = "https://www.jetbrains.com/pycharm/"><img width="40" height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a>
+ <a href = "https://www.eclipse.org/downloads/"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" alt="Eclipse IDE"></a>
+<a href = "https://developer.android.com/studio"><img width="40" height="40" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio"></a>
 
 
 <h3 align="left">Connect with me:</h3>
