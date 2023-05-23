@@ -42,8 +42,8 @@
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/donia_waleed2211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/donia_waleed2211" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doniawaleed&theme=tokyonight&hide_border=true&show_icons=true&locale=en" alt="doniawaleed" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doniawaleed&theme=tokyonight&hide_border=true" alt="doniawaleed" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doniawaleed&theme=tokyonight&hide_border=true&show_icons=true&locale=en" alt="doniawaleed" width="450"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doniawaleed&theme=tokyonight&hide_border=true" alt="doniawaleed" width="475" />
 </p>
 
 <div align="center">
