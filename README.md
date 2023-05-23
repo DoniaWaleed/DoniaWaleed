@@ -7,7 +7,7 @@
 <div align=center>
         <img src="https://i.imgur.com/fSFGYRc.gif" alt="Shinobu" height="200">
     </div>
-- 🌱 I’m currently learning **Networks and CyberSecurity**
+- 🌱 I’m currently learning **Networks and CyberSecurity
 
 ## Languages:
 <p align="left"> 
